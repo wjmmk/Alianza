@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    height: 100vh;
+    background-color: aliceblue;
+    font-size: 18.5px;
+}
+
+.ng-sidebar {
+    background: #002b58;
+    width: 12rem;
+    margin-top: 35px;
+    margin-bottom: 50px;
+}
