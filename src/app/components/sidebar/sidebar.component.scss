@@ -2,3 +2,33 @@ svg {
     height: 30px;
     width: 30px;
 }
+
+.contenedor {
+    display: flex;
+}
+.space {
+    margin-inline: 2px;
+}
+
+.formulary {
+    max-width: 800px;
+    max-height: 600px;
+    margin: 10px;
+    margin-left: 300px;
+}
+
+.boton-form {
+    margin-top: 10px;
+}
+
+.table {
+    max-width: 800px;
+    max-height: 600px;
+    margin: 10px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.input-group {
+    margin-top: 20px;
+}
